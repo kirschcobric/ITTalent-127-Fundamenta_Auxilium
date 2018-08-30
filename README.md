@@ -2,4 +2,4 @@
 
 # Integrantes
 - Hector
-- Jhony Hernández
+- Jonny Hernández
