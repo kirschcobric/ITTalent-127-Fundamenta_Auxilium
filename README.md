@@ -2,5 +2,4 @@
 
 # Integrantes
 - Hector
-- Jhony
-Prueba
+- Jhony Hernández
